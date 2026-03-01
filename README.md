@@ -7,6 +7,8 @@ ________________________________________________________________________________
 - L'abscisse ou l'ordonnée d'un point trigonométrique
 - La table des valeurs d'une fonction cosinus
 - Les zeros (partiellement inclus depend de la fonction)
+
+
 **Ce programme pourra calculer dans bientôt:**
 - La table des valeurs de toute les fonctions trigonométriques
 - Les zeros de toutes les fonctions trigonométriques

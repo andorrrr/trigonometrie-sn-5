@@ -13,4 +13,5 @@ ________________________________________________________________________________
 - Une fonction avec une racine carrée
 - Les identités trigonométriques
 - Des équations trigonométriques
+- Des problèmes avec des fonctions trigonométriques
 

@@ -1,6 +1,6 @@
 # Trigonométrie SN 5 secondaire
 Ceci est un programme pour les fonctions trigonométriques cosinus et sinus de SN5. Le programme n’est pas terminé, il est en cours de développement.
-***Ce programme est spécialisé pour le cours de mathématique Sciences Natures de 5ème secondaire***
+***Ce programme est spécialisé pour le cours de mathématique Sciences Natures de 5ème secondaire au Québec***
 __________________________________________________________________________________________________________________________________________________________
 **Ce programme permet de calculer:**
 - Les coordonnées d'un point trigonométrique qui a fait plusieurs tours
